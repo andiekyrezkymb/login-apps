@@ -5,8 +5,8 @@
 	"upload_source_maps": true,
 	"kv_namespaces": [
 		{
-			"binding": "AUTH_STORAGE",
-			"id": "97ff9696e0894629b404efe1c651db39"
+			"binding": "digitas-db",
+			"id": "9d388ea0-f1cb-41f5-b0a2-1581d9f8b7fd"
 		}
 	],
 	"d1_databases": [
